@@ -1,0 +1,284 @@
+/*
+ Theme Name:   LCDC
+ Template:     twentyfourteen
+ Theme URI:    https://github.com/LCDC/LCDC
+ Version:      1.0.0
+ Author:       Derrick Tennant
+ Author URI:   https://emrikol.com/
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Text Domain:  lcdc
+*/
+
+#site-header {
+	background-color: #be3926;
+}
+
+.site-title,.site-description {
+	display: none;
+}
+
+/* Everything below is to override colors in the default theme */
+a {
+	color: #be3926;
+}
+
+::selection {
+	background: #be3926;
+}
+
+::-moz-selection {
+	background: #be3926;
+}
+
+button,
+.button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+	background-color: #be3926;
+}
+
+.search-toggle {
+	background-color: #be3926;
+}
+
+.hentry .mejs-controls .mejs-time-rail .mejs-time-current {
+	background: #be3926;
+}
+
+.hentry .mejs-overlay:hover .mejs-overlay-button {
+	background-color: #be3926;
+}
+
+.paging-navigation .page-numbers.current {
+	border-top: 5px solid #be3926;
+}
+
+.widget button,
+.widget .button,
+.widget input[type="button"],
+.widget input[type="reset"],
+.widget input[type="submit"] {
+	background-color: #be3926;
+}
+
+.widget_calendar tbody a {
+	background-color: #be3926;
+}
+
+.content-sidebar .widget a {
+	color: #be3926;
+}
+
+.content-sidebar .widget input[type="button"],
+.content-sidebar .widget input[type="reset"],
+.content-sidebar .widget input[type="submit"] {
+	background-color: #be3926;
+}
+
+.slider-control-paging .slider-active:before,
+.slider-control-paging .slider-active:hover:before {
+	background-color: #be3926;
+}
+
+.slider-direction-nav a:hover {
+	background-color: #be3926;
+}
+
+	.primary-navigation ul ul {
+		background-color: #be3926;
+	}
+
+	.primary-navigation li:hover > a,
+	.primary-navigation li.focus > a {
+		background-color: #be3926;
+	}
+
+	.secondary-navigation ul ul {
+		background-color: #be3926;
+	}
+
+	.secondary-navigation li:hover > a,
+	.secondary-navigation li.focus > a {
+		background-color: #be3926;
+	}
+
+button:active,
+.button:active,
+input[type="button"]:active,
+input[type="reset"]:active,
+input[type="submit"]:active {
+	background-color: #be3926;
+}
+
+.site-navigation .current_page_item > a,
+.site-navigation .current_page_ancestor > a,
+.site-navigation .current-menu-item > a,
+.site-navigation .current-menu-ancestor > a {
+	color: #be3926;
+}
+
+.widget input[type="button"]:active,
+.widget input[type="reset"]:active,
+.widget input[type="submit"]:active {
+	background-color: #be3926;
+}
+
+.content-sidebar .widget input[type="button"]:active,
+.content-sidebar .widget input[type="reset"]:active,
+.content-sidebar .widget input[type="submit"]:active {
+	background-color: #be3926;
+}
+
+a:active,
+a:hover {
+	color: #e5432e;
+}
+
+button:hover,
+button:focus,
+.button:hover,
+.button:focus,
+input[type="button"]:hover,
+input[type="button"]:focus,
+input[type="reset"]:hover,
+input[type="reset"]:focus,
+input[type="submit"]:hover,
+input[type="submit"]:focus {
+	background-color: #e5432e;
+}
+
+.search-toggle:hover,
+.search-toggle.active {
+	background-color: #e5432e;
+}
+
+.search-box {
+	background-color: #e5432e;
+}
+
+.site-navigation a:hover {
+	color: #e5432e;
+}
+
+.entry-title a:hover {
+	color: #e5432e;
+}
+
+.entry-meta a:hover {
+	color: #e5432e;
+}
+
+.cat-links a:hover {
+	color: #e5432e;
+}
+
+.entry-meta .tag-links a:hover {
+	background-color: #e5432e;
+}
+
+.entry-meta .tag-links a:hover:before {
+	border-right-color: #e5432e;
+}
+
+.entry-content .edit-link a:hover {
+	color: #e5432e;
+}
+
+.hentry .mejs-controls .mejs-button button:hover {
+	color: #e5432e;
+}
+
+.page-links a:hover {
+	background: #e5432e;
+	border: 1px solid #e5432e;
+}
+
+.post-navigation a:hover,
+.image-navigation a:hover {
+	color: #e5432e;
+}
+
+.paging-navigation a:hover {
+	border-top: 5px solid #e5432e;
+}
+
+.comment-author a:hover,
+.comment-list .pingback a:hover,
+.comment-list .trackback a:hover,
+.comment-metadata a:hover {
+	color: #e5432e;
+}
+
+.comment-reply-title small a:hover {
+	color: #e5432e;
+}
+
+.widget a:hover {
+	color: #e5432e;
+}
+
+.widget input[type="button"]:hover,
+.widget input[type="button"]:focus,
+.widget input[type="reset"]:hover,
+.widget input[type="reset"]:focus,
+.widget input[type="submit"]:hover,
+.widget input[type="submit"]:focus {
+	background-color: #e5432e;
+}
+
+.widget-title a:hover {
+	color: #e5432e;
+}
+
+.widget_calendar tbody a:hover {
+	background-color: #e5432e;
+}
+
+.widget_twentyfourteen_ephemera .entry-meta a:hover {
+	color: #e5432e;
+}
+
+.content-sidebar .widget a:hover {
+	color: #e5432e;
+}
+
+.content-sidebar .widget input[type="button"]:hover,
+.content-sidebar .widget input[type="button"]:focus,
+.content-sidebar .widget input[type="reset"]:hover,
+.content-sidebar .widget input[type="reset"]:focus,
+.content-sidebar .widget input[type="submit"]:hover,
+.content-sidebar .widget input[type="submit"]:focus {
+	background-color: #e5432e;
+}
+
+.content-sidebar .widget .widget-title a:hover {
+	color: #e5432e;
+}
+
+.content-sidebar .widget_twentyfourteen_ephemera .entry-meta a:hover {
+	color: #e5432e;
+}
+
+.site-info a:hover {
+	color: #e5432e;
+}
+
+.featured-content a:hover {
+	color: #e5432e;
+}
+
+.slider-control-paging a:hover:before {
+	background-color: #e5432e;
+}
+
+	.primary-navigation ul ul a:hover,
+	.primary-navigation ul ul li.focus > a {
+		background-color: #e5432e;
+	}
+
+	.secondary-navigation ul ul a:hover,
+	.secondary-navigation ul ul li.focus > a {
+		background-color: #e5432e;
+	}
